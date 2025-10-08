@@ -7,7 +7,7 @@ name = "nammalang"
 version = "0.1.0"
 description = "A Kannada-inspired programming language."
 authors = [
-    { name="Your Name", email="you@example.com" }
+    { name="Shreeshanth", email="shreeshanthnaik@gmail.com" }
 ]
 readme = "README.md"
 license = { file = "LICENSE" }
