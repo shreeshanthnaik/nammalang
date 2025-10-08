@@ -4,7 +4,7 @@ setup(
     name="nammalang",
     version="0.1.0",
     author="Your Name",
-    author_email="you@example.com",
+    author_email="shreeshanthnaik@gmail.com",
     description="A Kannada-inspired programming language.",
     packages=find_packages(),
     include_package_data=True,
