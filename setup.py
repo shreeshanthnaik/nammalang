@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="nammalang",
     version="0.1.0",
-    author="Your Name",
+    author="Shreeshanth",
     author_email="shreeshanthnaik@gmail.com",
     description="A Kannada-inspired programming language.",
     packages=find_packages(),
